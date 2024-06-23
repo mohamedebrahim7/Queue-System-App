@@ -57,27 +57,103 @@ For any questions or feedback, feel free to reach out:
 
 <table>
   <tr>
+     
 1. Authentication:
-    <td>First Screen Page</td>
-    <td>First Screen Page</td>
-    <td>First Screen Page</td>
-    <td>First Screen Page</td>
-    <td>First Screen Page</td>
+    <td>Log In Screen </td>
+    <td>Register Screen </td>
+    <td>Forget Password Screen </td>
+    <td>OTP Screen </td>
+    <td>Create Password Screen </td>
 
   </tr>
   <tr>
-    <td><img src="screenshots/Screenshot_1582745092.png" width=270 height=480></td>
-    <td><img src="screenshots/Screenshot_1582745125.png" width=270 height=480></td>
-    <td><img src="screenshots/Screenshot_1582745125.png" width=270 height=480></td>
-    <td><img src="screenshots/Screenshot_1582745125.png" width=270 height=480></td>
-    <td><img src="screenshots/Screenshot_1582745139.png" width=270 height=480></td>
+    <td><img src="screen_shots/authentication/log_in.jpg" width=270 height=480></td>
+    <td><img src="screen_shots/authentication/register.jpg" width=270 height=480></td>
+    <td><img src="screen_shots/authentication/forget_password.jpg" width=270 height=480></td>
+    <td><img src="screen_shots/authentication/otp.jpg" width=270 height=480></td>
+    <td><img src="screen_shots/authentication/create_password.jpg" width=270 height=480></td>
 
   </tr>
  </table>
 
- 
----
+ <table>
+  <tr>
+     
+2. Venue Selection and Booking:
+    <td>Home Screen </td>
+    <td>Ticket Type Screen </td>
+    <td>Category Screen </td>
+    <td>Add Place Screen </td>
 
+  </tr>
+  <tr>
+    <td><img src="screen_shots/venue_selection_and_booking/home_page.jpg" width=270 height=480></td>
+    <td><img src="screen_shots/venue_selection_and_booking/ticket_type.png" width=270 height=480></td>
+    <td><img src="screen_shots/venue_selection_and_booking/it.png" width=270 height=480></td>
+    <td><img src="screen_shots/venue_selection_and_booking/add_place.png" width=270 height=480></td>
+
+  </tr>
+ </table>
+
+  <table>
+  <tr>
+     
+3. Report History:
+    <td>History Reporting Screen </td>
+    <td>Filter Bottom Sheet </td>
+    <td>Report Details Screen </td>
+
+  </tr>
+  <tr>
+    <td><img src="screen_shots/report_history/history_reporting.png" width=270 height=480></td>
+    <td><img src="screen_shots/report_history/filter.png" width=270 height=180></td>
+    <td><img src="screen_shots/report_history/report_details.png" width=270 height=480></td>
+
+  </tr>
+ </table>
+ 
+  <table>
+  <tr>
+
+4. User Profile Management:
+    <td>Profile Screen </td>
+    <td>About Screen </td>
+    <td>Personal Details Screen </td>
+      <td>Edit Profile Screen </td>
+    <td>Change Password Screen </td>
+
+  </tr>
+  <tr>
+    <td><img src="screen_shots/user_profile_management/profile.png" width=270 height=480></td>
+    <td><img src="screen_shots/user_profile_management/About.jpg" width=270 height=480></td>
+    <td><img src="screen_shots/user_profile_management/personal_details.jpg" width=270 height=480></td>
+    <td><img src="screen_shots/user_profile_management/edit_profile.jpg" width=270 height=480></td>
+    <td><img src="screen_shots/user_profile_management/change_password.jpg" width=270 height=480></td>
+
+  </tr>
+ </table>
+ 
+ </tr>
+ </table>
+
+<table>
+  <tr>
+     
+5. Error Handling:
+    <td>Error Screen </td>
+
+
+  </tr>
+  <tr>
+    <td><img src="screen_shots/404_page.jpg" width=270 height=480></td>
+
+  </tr>
+ </table>
+
+ <table>
+  <tr>
+     
+---
 ### Note
 This repository does not include the source code to protect the privacy of Macber Egy company. The APK is provided for demonstration purposes only.
 
